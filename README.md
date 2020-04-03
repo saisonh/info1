@@ -30,3 +30,22 @@
 나는 두칸 공백  
 집에 두칸 공백  
 가고 싶다.
+
+## 코드 블록을 넣어봅니다.
+``` python
+  #back tick(왼쪽의 `)을 앞 뒤로 3개씩 사용합니다.
+  #처음에 사용할 코드 블록의 언어를 써줍니다.
+  function add(a, b) :
+    return a+b
+  add(3,4)
+  z = add(4,5) +5
+```
+``` javascript
+  //back tick(왼쪽의 `)을 앞 뒤로 3개씩 사용합니다.
+  //처음에 사용할 코드 블록의 언어를 써줍니다.
+  var a=1, b=2;
+  function add(a, b) :
+    return a+b
+    }
+  console.log(add(3,4);
+```
