@@ -49,3 +49,10 @@
     }
   console.log(add(3,4);
 ```
+### a 태그의 역할을 알아보기[link]
+[DAUM 사이트]("http://www.daum.net")를 접속해 보세요.  
+
+## image 가져오기(이미지 주소 복사, 작업 폴더에서 불러올 수 있음)
+![아름다운 그림](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg)
+이미지 크기를 지정하고 싶으면 그냥 html의 img 태그를 사용하자(아래와 같은 방식)  
+&lt;img src="/images/img1.png" width="300" height="300"&gt; <-- 실제로는 html syntax적용
