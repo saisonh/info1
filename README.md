@@ -50,7 +50,7 @@
   console.log(add(3,4);
 ```
 ### a 태그의 역할을 알아보기[link]
-[DAUM 사이트]("http://www.daum.net")를 접속해 보세요.  
+[DAUM 사이트](http://www.daum.net)를 접속해 보세요.  
 
 ## image 가져오기(이미지 주소 복사, 작업 폴더에서 불러올 수 있음)
 ![아름다운 그림](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg)
