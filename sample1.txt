@@ -1,0 +1,9 @@
+
+
+var stID = setTimeout(함수, 시간) ;  //ms 개념 1/1000초 한번만 수행
+숫자 리턴해줌(유일한 ID를 리턴)
+var siID = setInterval(함수, 시간);  //시간마다 반복 수행(주기적 수행)
+숫자 리턴해줌(유일한 ID를 리턴)
+
+clearTimeout(stID) //타이머 종료
+clearInterval(siID) //주기적인 수행 종료. X
